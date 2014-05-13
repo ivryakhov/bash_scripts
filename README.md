@@ -1,4 +1,4 @@
-bash_sripts
+bash_scripts
 ===========
 
 Some usefull bash scripts
